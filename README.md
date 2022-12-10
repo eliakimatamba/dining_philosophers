@@ -1,4 +1,4 @@
-# dining_philosophers
+# Dining Philosopher's Problem
 
 The Dining Philosophers Problem is a classic problem in computer science that explores the ways in which 
 concurrent processes (or threads) can deadlock. 
